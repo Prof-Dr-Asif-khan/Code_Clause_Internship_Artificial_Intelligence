@@ -62,10 +62,15 @@ An AI-based Sudoku solver using computer vision and deep learning.
 
 <table>
   <tr>
-    <td align="center"><img src="https://via.placeholder.com/200x200.png?text=AI+Sudoku+Solver" width="200px" alt="AI Sudoku Solver"/><br /><sub><b>AI Sudoku Solver</b></sub></td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/bcdeda8e-8c57-4071-8a4e-26bc8abec9ff" width="200px" alt="AI Sudoku Solver"/>
+      <br />
+      <sub><b>Tic-Tac-Toe</b></sub>
+    </td>
     <!-- Add more project highlights as needed -->
   </tr>
 </table>
+
 
 ## 🤝 Contribute
 
