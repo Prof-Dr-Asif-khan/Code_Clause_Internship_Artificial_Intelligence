@@ -19,12 +19,29 @@ CodeClause offers an educational internship program aimed at enhancing skills in
 ## 📂 Projects
 
 ### 1. AI-Powered Sudoku Solver
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/bcdeda8e-8c57-4071-8a4e-26bc8abec9ff" width="200px" alt="Tic-Tac-Toe AI"/>
+      <br />
+      <sub><b>Tic-Tac-Toe AI</b></sub>
+      <br /><br />
+      <!-- Badges for the technologies used in the project -->
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    </td>
+    <!-- Add more project highlights as needed -->
+  </tr>
+</table>
 
-An AI-based Sudoku solver using computer vision and deep learning.
-- **Folder**: `AI-Sudoku-Solver`
+
+- **Folder**: `Tic-Tac-Toe`
 - **Key Features**: Image recognition, Deep learning model, Sudoku solving algorithm
-- **[View Project](https://github.com/MumtazKhanAli/CodeClause_Internship_Program/tree/main/AI-Sudoku-Solver)**
+- **[View Project](https://github.com/engrmumtazali0112/Code_Clause_Internship_Artificial_Intelligence/tree/main/Tic-Tac-Toe%20_I)**
 
 (Add more projects as needed)
 
