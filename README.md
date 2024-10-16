@@ -1,8 +1,11 @@
 # 🚀 CodeClause Internship Program
 
-![GitHub last commit](https://img.shields.io/github/last-commit/MumtazKhanAli/CodeClause_Internship_Program)
-![GitHub repo size](https://img.shields.io/github/repo-size/MumtazKhanAli/CodeClause_Internship_Program)
-![GitHub stars](https://img.shields.io/github/stars/MumtazKhanAli/CodeClause_Internship_Program?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/engrmumtazali0112/Code_Clause_Internship_Artificial_Intelligence)
+![GitHub repo size](https://img.shields.io/github/repo-size/engrmumtazali0112/Code_Clause_Internship_Artificial_Intelligence)
+![GitHub stars](https://img.shields.io/github/stars/engrmumtazali0112/Code_Clause_Internship_Artificial_Intelligence?style=social)
+
+
+
 
 Welcome to the CodeClause Internship Program repository! This collection showcases the projects and skills developed during our internship program.
 
