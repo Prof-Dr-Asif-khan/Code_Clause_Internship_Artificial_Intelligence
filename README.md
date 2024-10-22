@@ -41,12 +41,33 @@ CodeClause offers an educational internship program aimed at enhancing skills in
   </tr>
 </table>
 
-
 - **Folder**: `Tic-Tac-Toe`
 - **Key Features**: Image recognition, Deep learning model, Sudoku solving algorithm
 - **[View Project](https://github.com/engrmumtazali0112/Code_Clause_Internship_Artificial_Intelligence/tree/main/Tic-Tac-Toe%20_I)**
 
-(Add more projects as needed)
+### 2. Simple Real Time Object Detection
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/68855a4a-5847-4b1c-a6ea-bf137bf174eb" width="600px" alt="Object Detection AI"/>
+      <br />
+      <sub><b>Object Detection AI</b></sub>
+      <br /><br />
+      <!-- Badges for the technologies used in the project -->
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    </td>
+  </tr> 
+</table>
+
+- **Folder**: `Object-Detection-AI`
+- **Key Features**: Object detection, Real-time image processing, Deep learning model
+- **[View Project](https://github.com/engrmumtazali0112/Code_Clause_Internship_Artificial_Intelligence/tree/main/simple-real-time-object-detection)**
 
 ## 🛠️ Technologies
 
