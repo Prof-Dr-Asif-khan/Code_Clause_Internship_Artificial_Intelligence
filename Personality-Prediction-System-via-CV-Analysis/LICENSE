@@ -1,0 +1,148 @@
+# MIT License with Additional Terms and Conditions
+
+Copyright (c) 2024 Personality Prediction System
+
+## MIT License Terms
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+## Additional Terms and Conditions
+
+### 1. Definitions
+
+- "Project" refers to the Personality Prediction System software and all associated files
+- "AI Model" refers to the personality prediction algorithms and models
+- "User Data" refers to any resumes, personal information, or analysis results
+- "Commercial Use" refers to any use of the Project for financial gain
+
+### 2. Data Privacy and Protection
+
+2.1. User Data Handling
+
+- All user data must be processed and stored in compliance with GDPR and relevant data protection laws
+- Personal information must be encrypted during storage and transmission
+- User data must not be shared with third parties without explicit consent
+
+  2.2. Data Retention
+
+- Resume data must be deleted after analysis unless explicitly permitted by the user
+- Analysis results must be stored securely and accessible only to authorized users
+- Users have the right to request deletion of their data at any time
+
+### 3. AI Model Usage
+
+3.1. Model Restrictions
+
+- The AI model must not be used for discriminatory purposes
+- Predictions must be used as supplementary information, not as sole decision criteria
+- Users must be informed that results are algorithmic predictions, not definitive assessments
+
+  3.2. Model Modifications
+
+- Any modifications to the AI model must be documented
+- Modified models must maintain ethical guidelines and fairness principles
+- Changes affecting prediction accuracy must be disclosed to users
+
+### 4. Commercial Usage
+
+4.1. Free Usage
+
+- Personal and academic use is permitted without restriction
+- Non-profit organizations may use the Project freely with attribution
+
+  4.2. Commercial License Requirements
+
+- Commercial use requires written permission from the copyright holders
+- Usage statistics must be reported quarterly
+- Revenue sharing may be required for commercial applications
+
+### 5. Attribution Requirements
+
+5.1. Required Attribution
+
+- All deployments must include the original copyright notice
+- Publications or derivatives must cite the original Project
+- UI must display "Powered by Personality Prediction System" notice
+
+  5.2. Logo and Branding
+
+- Project logo and name may be used for attribution
+- Modified versions must clearly indicate modifications
+- Commercial uses must obtain branding approval
+
+### 6. Warranty and Liability
+
+6.1. No Warranty
+
+- The Project is provided without warranty of any kind
+- No guarantees regarding prediction accuracy or reliability
+- Users assume all risks associated with usage
+
+  6.2. Limitation of Liability
+
+- Authors are not liable for any damages or losses
+- No responsibility for decisions made based on predictions
+- Users indemnify authors against all claims
+
+### 7. Contributions
+
+7.1. Code Contributions
+
+- Contributors grant perpetual license to their contributions
+- Submitted code must be original or properly licensed
+- Contributors must sign Contributor License Agreement
+
+  7.2. Data Contributions
+
+- Training data contributions must be properly anonymized
+- Contributors must have rights to submitted data
+- Contributed data must comply with privacy laws
+
+### 8. Termination
+
+- License automatically terminates upon violation of terms
+- All data and copies must be destroyed upon termination
+- Termination does not affect prior compliant uses
+
+### 9. Governing Law
+
+- These terms are governed by [Your Jurisdiction] law
+- Disputes shall be resolved in [Your Jurisdiction] courts
+- Invalid terms shall be reformed to minimum required extent
+
+## Contact Information
+
+For licensing inquiries and permissions:
+
+- Email: engrmumtazali01@example.com
+- Repository: https://github.com/engrmumtazali0112/personality-prediction-system
+
+## License Updates
+
+The copyright holders reserve the right to update these terms. Users will be notified of significant changes through:
+
+- Repository updates
+- Email notifications (for registered users)
+- Project website announcements
+
+Last updated: [10/23/2023]
+
+---
+
+By using this Project, you agree to comply with all the terms and conditions stated above.
