@@ -5,7 +5,7 @@ from prediction import personality_traits
 # Ensure NLTK resources are downloaded
 
 
-genai.configure(api_key="AIzaSyBt_NvKYLO0LbpV1l75HlVTgXXBv-tFJzo")
+genai.configure(api_key="use/your/own/api_key")
 # proceed here for api key  https://makersuite.google.com/app/apikey
 
 generation_config = {
