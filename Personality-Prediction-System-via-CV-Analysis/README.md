@@ -165,7 +165,8 @@ GET /export_data      # Export analysis data
 - [ ] Cloud storage integration
 
 ## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/engrmumtazali0112/Personality-Prediction-System-via-CV-Analysis/blob/main/LICENSE) file for details.
+
 
 ## 🙏 Acknowledgments
 - NLTK for NLP capabilities
