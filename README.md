@@ -5,7 +5,9 @@
 ![GitHub stars](https://img.shields.io/github/stars/engrmumtazali0112/Code_Clause_Internship_Artificial_Intelligence?style=social)
 
 
+# 📄 CodeClause Internship Report
 
+📥 [Download the report](https://github.com/engrmumtazali0112/Code_Clause_Internship_Artificial_Intelligence/blob/main/CodeClause%20Internship%20Report.pdf)
 
 Welcome to the CodeClause Internship Program repository! This collection showcases the projects and skills developed during our internship program.
 
